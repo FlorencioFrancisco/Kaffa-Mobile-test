@@ -48,3 +48,6 @@ else:
     print("A and B don't intersect")
 
 # A = (3 ,5;11,11) B = (7,2; 13,7) C = (11,11;15,13)
+
+# areaOfIntersection(A, B) = 15
+# areaOfIntersection(A, C) = 1

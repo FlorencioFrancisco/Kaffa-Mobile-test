@@ -34,3 +34,4 @@ if (ValidateCNPJDigits(cnpj)):
 else:
     print('That is an invalid CNPJ number')
 
+# valid cnpj: 59.541.264/0001-03
