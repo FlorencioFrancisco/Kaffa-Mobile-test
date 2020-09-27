@@ -1,0 +1,9 @@
+list ORDERS with number of items:
+
+    select * from Orders where amount = {number of items}
+
+Which indexes should be created in this model?
+
+    id_client
+    id_order
+    id_product
